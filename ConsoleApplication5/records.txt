@@ -1,0 +1,10 @@
+danny carranza       100  
+jesus ricarte        50   
+joe vega             89   
+sabino vega          56   
+angie perez          96   
+paulina betancourt   76   
+agustin torres       0    
+
+The student with the higher grade is: danny carranza with a score of 100
+The student with the lower grade is: agustin torres with a score of 0

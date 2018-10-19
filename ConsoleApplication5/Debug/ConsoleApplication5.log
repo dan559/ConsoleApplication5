@@ -1,0 +1,3 @@
+﻿  second.cpp
+d:\visual studio\consoleapplication5\consoleapplication5\second.cpp(19): error C2065: 'score': undeclared identifier
+d:\visual studio\consoleapplication5\consoleapplication5\second.cpp(23): error C2065: 'score': undeclared identifier
